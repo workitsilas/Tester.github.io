@@ -177,7 +177,7 @@ header {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+/*   background-attachment: fixed; */
 }
 /* Children */
 /* First child in main-first section */
